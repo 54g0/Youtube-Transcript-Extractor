@@ -83,7 +83,7 @@ print(yt.get_transcript_text()[:100])
 
 ## Project Links
 
-- **Source Code:** [GitHub](https://github.com/your-username/Youtube-Transcript-Extractor)  
+- **Source Code:** [GitHub](https://github.com/54g0/Youtube-Transcript-Extractor)  
 - **PyPI:** [Youtube Transcript Extractor](https://pypi.org/project/youtube-transcript-extractor/)  
 
 ---
